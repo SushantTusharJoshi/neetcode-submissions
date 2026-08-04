@@ -4,10 +4,10 @@ My solutions to [NeetCode](https://neetcode.io) problems, synced via [NeetCode G
 
 ## Progress
 
-**54 / 150** problems completed (36%)
+**55 / 150** problems completed (37%)
 
 ```
-█████████░░░░░░░░░░░░░░░░░ 36%
+█████████░░░░░░░░░░░░░░░░░ 37%
 ```
 
 ## Topics covered
@@ -18,7 +18,7 @@ My solutions to [NeetCode](https://neetcode.io) problems, synced via [NeetCode G
 | Two Pointers | 3 | Active |
 | Stack | 1 | Partial |
 | Binary Search | 2 | Active |
-| Sliding Window | 2 | Active |
+| Sliding Window | 3 | Active |
 | Linked List | 4 | Active |
 | Trees | 5 | Active |
 | Tries | 0 | Not started |
@@ -35,7 +35,7 @@ My solutions to [NeetCode](https://neetcode.io) problems, synced via [NeetCode G
 ### Problem list
 
 <details>
-<summary>All 54 solved problems</summary>
+<summary>All 55 solved problems</summary>
 
 **Arrays & Hashing:** two-integer-sum, is-anagram, anagram-groups, top-k-elements-in-list, products-of-array-discluding-self, longest-consecutive-sequence, duplicate-integer, set-zeroes-in-matrix
 
@@ -45,7 +45,7 @@ My solutions to [NeetCode](https://neetcode.io) problems, synced via [NeetCode G
 
 **Binary Search:** find-minimum-in-rotated-sorted-array, find-target-in-rotated-sorted-array
 
-**Sliding Window:** longest-substring-without-duplicates, longest-repeating-substring-with-replacement
+**Sliding Window:** longest-substring-without-duplicates, longest-repeating-substring-with-replacement, buy-and-sell-crypto
 
 **Linked List:** reverse-a-linked-list, merge-two-sorted-linked-lists, reorder-linked-list, remove-node-from-end-of-linked-list, linked-list-cycle-detection
 
