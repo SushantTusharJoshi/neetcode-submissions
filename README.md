@@ -4,75 +4,78 @@ My solutions to [NeetCode](https://neetcode.io) problems, synced via [NeetCode G
 
 ## Progress
 
-**55 / 150** problems completed (37%)
-
-```
-█████████░░░░░░░░░░░░░░░░░ 37%
-```
+**146 problems solved** across all 18 NeetCode topics, drawn from the NeetCode 150 and NeetCode 250 lists.
 
 ## Topics covered
 
-| Topic | Solved | Status |
-|-------|--------|--------|
-| Arrays & Hashing | 8 | Active |
-| Two Pointers | 3 | Active |
-| Stack | 1 | Partial |
-| Binary Search | 2 | Active |
-| Sliding Window | 3 | Active |
-| Linked List | 4 | Active |
-| Trees | 5 | Active |
-| Tries | 0 | Not started |
-| Backtracking | 2 | Partial |
-| Heap / Priority Queue | 1 | Partial |
-| Graphs | 2 | Active |
-| 1-D Dynamic Programming | 9 | Active |
-| 2-D Dynamic Programming | 0 | Not started |
-| Greedy | 1 | Partial |
-| Intervals | 4 | Active |
-| Math & Geometry | 2 | Partial |
-| Bit Manipulation | 4 | Active |
+| Topic | Solved |
+|-------|--------|
+| Arrays & Hashing | 10 |
+| Two Pointers | 6 |
+| Sliding Window | 7 |
+| Stack | 7 |
+| Binary Search | 8 |
+| Linked List | 9 |
+| Trees | 13 |
+| Tries | 2 |
+| Heap / Priority Queue | 8 |
+| Backtracking | 10 |
+| Graphs | 9 |
+| Advanced Graphs | 2 |
+| 1-D Dynamic Programming | 13 |
+| 2-D Dynamic Programming | 12 |
+| Greedy | 9 |
+| Intervals | 6 |
+| Math & Geometry | 8 |
+| Bit Manipulation | 7 |
 
 ### Problem list
 
 <details>
-<summary>All 55 solved problems</summary>
+<summary>All 146 solved problems</summary>
 
-**Arrays & Hashing:** two-integer-sum, is-anagram, anagram-groups, top-k-elements-in-list, products-of-array-discluding-self, longest-consecutive-sequence, duplicate-integer, set-zeroes-in-matrix
+**Arrays & Hashing:** duplicate-integer, is-anagram, two-integer-sum, anagram-groups, top-k-elements-in-list, string-encode-and-decode, products-of-array-discluding-self, valid-sudoku, longest-consecutive-sequence, subarray-sum-equals-k
 
-**Two Pointers:** three-integer-sum, max-water-container, is-palindrome
+**Two Pointers:** is-palindrome, two-integer-sum-ii, three-integer-sum, max-water-container, trapping-rain-water, boats-to-save-people
 
-**Stack:** validate-parentheses
+**Sliding Window:** buy-and-sell-crypto, longest-substring-without-duplicates, longest-repeating-substring-with-replacement, permutation-string, minimum-window-with-characters, sliding-window-maximum, minimum-size-subarray-sum
 
-**Binary Search:** find-minimum-in-rotated-sorted-array, find-target-in-rotated-sorted-array
+**Stack:** validate-parentheses, minimum-stack, evaluate-reverse-polish-notation, generate-parentheses, daily-temperatures, car-fleet, largest-rectangle-in-histogram
 
-**Sliding Window:** longest-substring-without-duplicates, longest-repeating-substring-with-replacement, buy-and-sell-crypto
+**Binary Search:** binary-search, search-2d-matrix, eating-bananas, find-minimum-in-rotated-sorted-array, find-target-in-rotated-sorted-array, time-based-key-value-store, capacity-to-ship-packages-within-d-days, find-k-closest-elements
 
-**Linked List:** reverse-a-linked-list, merge-two-sorted-linked-lists, reorder-linked-list, remove-node-from-end-of-linked-list, linked-list-cycle-detection
+**Linked List:** reverse-a-linked-list, merge-two-sorted-linked-lists, linked-list-cycle-detection, reorder-linked-list, remove-node-from-end-of-linked-list, copy-linked-list-with-random-pointer, add-two-numbers, find-duplicate-integer, lru-cache
 
-**Trees:** invert-a-binary-tree, depth-of-binary-tree, same-binary-tree, subtree-of-a-binary-tree, lowest-common-ancestor-in-binary-search-tree
+**Trees:** invert-a-binary-tree, depth-of-binary-tree, binary-tree-diameter, balanced-binary-tree, same-binary-tree, subtree-of-a-binary-tree, lowest-common-ancestor-in-binary-search-tree, level-order-traversal-of-binary-tree, binary-tree-right-side-view, count-good-nodes-in-binary-tree, valid-binary-search-tree, kth-smallest-integer-in-bst, binary-tree-from-preorder-and-inorder-traversal
 
-**Backtracking:** combination-target-sum, search-for-word
+**Tries:** implement-prefix-tree, design-word-search-data-structure
 
-**Heap / Priority Queue:** meeting-schedule-ii
+**Heap / Priority Queue:** kth-largest-integer-in-a-stream, last-stone-weight, k-closest-points-to-origin, kth-largest-element-in-an-array, task-scheduling, design-twitter-feed, find-median-in-a-data-stream, car-pooling
 
-**Graphs:** clone-graph, course-schedule
+**Backtracking:** subsets, combination-target-sum, combination-target-sum-ii, permutations, subsets-ii, search-for-word, palindrome-partitioning, combinations-of-a-phone-number, n-queens, n-queens-ii
 
-**1-D Dynamic Programming:** climbing-stairs, house-robber, house-robber-ii, decode-ways, coin-change, maximum-subarray, maximum-product-subarray, word-break, palindromic-substrings, longest-palindromic-substring
+**Graphs:** count-number-of-islands, max-area-of-island, clone-graph, surrounded-regions, rotting-fruit, course-schedule, course-schedule-ii, valid-tree, word-ladder
 
-**Greedy:** jump-game
+**Advanced Graphs:** min-cost-to-connect-points, cheapest-flight-path
 
-**Intervals:** insert-new-interval, merge-intervals, non-overlapping-intervals, meeting-schedule
+**1-D Dynamic Programming:** climbing-stairs, min-cost-climbing-stairs, house-robber, house-robber-ii, longest-palindromic-substring, palindromic-substrings, decode-ways, coin-change, maximum-product-subarray, word-break, longest-increasing-subsequence, partition-equal-subset-sum, perfect-squares
 
-**Math & Geometry:** rotate-matrix, spiral-matrix
+**2-D Dynamic Programming:** count-paths, longest-common-subsequence, buy-and-sell-crypto-with-cooldown, coin-change-ii, target-sum, interleaving-string, longest-increasing-path-in-matrix, count-subsequences, edit-distance, burst-balloons, regular-expression-matching, minimum-path-sum
 
-**Bit Manipulation:** number-of-one-bits, counting-bits, reverse-bits, sum-of-two-integers, missing-number
+**Greedy:** maximum-subarray, jump-game, jump-game-ii, gas-station, hand-of-straights, merge-triplets-to-form-target, partition-labels, valid-parenthesis-string, best-time-to-buy-and-sell-stock-ii
+
+**Intervals:** insert-new-interval, merge-intervals, non-overlapping-intervals, meeting-schedule, meeting-schedule-ii, minimum-interval-including-query
+
+**Math & Geometry:** rotate-matrix, spiral-matrix, set-zeroes-in-matrix, non-cyclical-number, plus-one, pow-x-n, multiply-strings, count-squares
+
+**Bit Manipulation:** single-number, number-of-one-bits, counting-bits, reverse-bits, missing-number, sum-of-two-integers, reverse-integer
 
 </details>
 
 ## Languages
 
-- **Java** (primary) — 87%
-- **Python** — 13%
+- **Python**
+- **Java**
 
 ## Structure
 
